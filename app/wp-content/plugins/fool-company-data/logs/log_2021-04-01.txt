@@ -1,0 +1,704 @@
+[2021-04-01 18:52:16.476120] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 18:52:16.477483] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-other-coverage.php(23): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(58): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}
+[2021-04-01 18:56:56.481180] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 18:56:56.482155] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(14): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-04-01 18:56:56.794018] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 18:56:56.794866] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-previous-recommendations.php(18): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(53): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}
+[2021-04-01 18:56:57.028860] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 18:56:57.030569] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-other-coverage.php(23): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(58): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}
+[2021-04-01 18:57:37.142405] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 18:57:37.143740] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(14): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-04-01 18:57:37.422486] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 18:57:37.423415] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-previous-recommendations.php(18): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(53): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}
+[2021-04-01 18:57:37.720005] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 18:57:37.722008] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-other-coverage.php(23): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(58): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}
+[2021-04-01 22:42:55.742819] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 22:42:55.749694] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-previous-recommendations.php(18): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(57): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}
+[2021-04-01 22:42:56.032516] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 22:42:56.034137] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-other-coverage.php(23): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(61): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}
+[2021-04-01 22:43:10.040424] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 22:43:10.047280] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(14): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-04-01 22:43:10.342394] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 22:43:10.343477] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-previous-recommendations.php(18): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(57): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}
+[2021-04-01 22:43:10.636486] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 22:43:10.637348] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-other-coverage.php(23): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(61): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}
+[2021-04-01 22:43:17.701821] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 22:43:17.708666] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(14): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-04-01 22:43:18.023540] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 22:43:18.025795] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-previous-recommendations.php(18): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(57): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}
+[2021-04-01 22:43:18.288706] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 22:43:18.289694] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-other-coverage.php(23): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(61): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}
+[2021-04-01 22:44:01.541533] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 22:44:01.542346] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(14): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-04-01 22:44:01.819472] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 22:44:01.820333] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-previous-recommendations.php(18): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(57): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}
+[2021-04-01 22:44:02.095432] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 22:44:02.096484] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-other-coverage.php(23): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(61): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}
+[2021-04-01 22:44:50.850723] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 22:44:50.851999] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(14): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-04-01 22:44:51.179158] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 22:44:51.181216] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-previous-recommendations.php(18): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(57): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}
+[2021-04-01 22:44:51.477926] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 22:44:51.478888] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-other-coverage.php(23): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(61): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}
+[2021-04-01 22:45:43.302165] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 22:45:43.305044] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(14): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-04-01 22:45:43.627733] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 22:45:43.629100] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-previous-recommendations.php(18): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(57): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}
+[2021-04-01 22:45:43.916632] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 22:45:43.917800] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-other-coverage.php(23): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(61): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}
+[2021-04-01 22:46:24.897439] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 22:46:24.898597] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(14): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-04-01 22:46:25.179102] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 22:46:25.179940] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-previous-recommendations.php(18): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(57): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}
+[2021-04-01 22:46:25.473001] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 22:46:25.474071] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-other-coverage.php(23): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(61): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}
+[2021-04-01 22:46:52.250637] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 22:46:52.251538] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(14): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-04-01 22:46:52.546315] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 22:46:52.547210] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-previous-recommendations.php(18): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(57): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}
+[2021-04-01 22:46:52.858160] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 22:46:52.859220] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-other-coverage.php(23): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(61): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}
+[2021-04-01 22:48:01.359148] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 22:48:01.361047] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(14): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-04-01 22:48:01.729944] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 22:48:01.731007] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-previous-recommendations.php(18): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(57): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}
+[2021-04-01 22:48:02.023345] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 22:48:02.024610] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-other-coverage.php(23): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(61): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}
+[2021-04-01 23:11:52.234353] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 23:11:52.235867] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(14): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-04-01 23:11:52.561074] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 23:11:52.562093] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-previous-recommendations.php(18): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(57): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}
+[2021-04-01 23:11:52.857866] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 23:11:52.858881] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-other-coverage.php(23): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(61): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}
+[2021-04-01 23:12:23.236905] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 23:12:23.237678] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(14): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-04-01 23:12:23.559606] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 23:12:23.560477] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-previous-recommendations.php(18): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(57): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}
+[2021-04-01 23:12:23.854111] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 23:12:23.854949] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-other-coverage.php(23): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(61): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}
+[2021-04-01 23:12:25.956959] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 23:12:25.957901] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(14): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-04-01 23:12:26.259723] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 23:12:26.260740] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-previous-recommendations.php(18): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(57): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}
+[2021-04-01 23:12:26.550582] [error] Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "}
+[2021-04-01 23:12:26.551528] [error] Connection Error in getResponse: Exception: Unexpected API Return Data Type (object): {"Error Message" : "Limit Reach . Please upgrade your plan or visit our documentation for more details at https://financialmodelingprep.com/developer/docs/pricing "} in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:114
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-other-coverage.php(23): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-companies.php(61): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(30): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}

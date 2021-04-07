@@ -1,0 +1,358 @@
+[2021-03-31 18:35:36.624784] [info] Unexpected API Return Value: 200
+[2021-03-31 18:35:36.626266] [info] Connection Error: Exception: Unexpected API Return Value: [ ] in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:79
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(87): Fool\Connection->makeRequest()
+#1 /vagrant/public/wp-content/themes/thefool/posts/post-default.php(18): Fool\Connection->getResponse()
+#2 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#3 /vagrant/public/wp-includes/template.php(676): load_template()
+#4 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#5 /vagrant/public/wp-content/themes/thefool/single.php(33): get_template_part()
+#6 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#7 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#8 /vagrant/public/index.php(17): require('/vagrant/public...')
+#9 {main}
+[2021-03-31 18:35:36.912509] [info] Unexpected API Return Value: 200
+[2021-03-31 18:35:36.913465] [info] Connection Error: Exception: Unexpected API Return Value: [ ] in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:79
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(87): Fool\Connection->makeRequest()
+#1 /vagrant/public/wp-content/themes/thefool/posts/post-default.php(19): Fool\Connection->getResponse()
+#2 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#3 /vagrant/public/wp-includes/template.php(676): load_template()
+#4 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#5 /vagrant/public/wp-content/themes/thefool/single.php(33): get_template_part()
+#6 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#7 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#8 /vagrant/public/index.php(17): require('/vagrant/public...')
+#9 {main}
+[2021-03-31 18:36:22.831974] [info] Unexpected API Return Value: [ ]
+[2021-03-31 18:36:22.833390] [info] Connection Error: Exception: Unexpected API Return Value: [ ] in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:79
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(87): Fool\Connection->makeRequest()
+#1 /vagrant/public/wp-content/themes/thefool/posts/post-default.php(18): Fool\Connection->getResponse()
+#2 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#3 /vagrant/public/wp-includes/template.php(676): load_template()
+#4 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#5 /vagrant/public/wp-content/themes/thefool/single.php(33): get_template_part()
+#6 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#7 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#8 /vagrant/public/index.php(17): require('/vagrant/public...')
+#9 {main}
+[2021-03-31 18:36:23.130846] [info] Unexpected API Return Value: [ ]
+[2021-03-31 18:36:23.132167] [info] Connection Error: Exception: Unexpected API Return Value: [ ] in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:79
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(87): Fool\Connection->makeRequest()
+#1 /vagrant/public/wp-content/themes/thefool/posts/post-default.php(19): Fool\Connection->getResponse()
+#2 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#3 /vagrant/public/wp-includes/template.php(676): load_template()
+#4 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#5 /vagrant/public/wp-content/themes/thefool/single.php(33): get_template_part()
+#6 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#7 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#8 /vagrant/public/index.php(17): require('/vagrant/public...')
+#9 {main}
+[2021-03-31 18:51:20.729312] [error] Unexpected API Return Value: [ ]
+[2021-03-31 18:51:20.730572] [error] Connection Error in getResponse: Exception: Unexpected API Return Value: [ ] in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:96
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(73): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(107): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-default.php(18): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(33): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-03-31 18:51:20.998596] [error] Unexpected API Return Value: [ ]
+[2021-03-31 18:51:20.999300] [error] Connection Error in getResponse: Exception: Unexpected API Return Value: [ ] in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:96
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(73): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(107): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-default.php(19): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(33): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-03-31 18:52:25.991792] [error] Unexpected API Return Value: [ ]
+[2021-03-31 18:52:25.992774] [error] Connection Error in getResponse: Exception: Unexpected API Return Value: [ ] in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:96
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(73): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(107): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-default.php(18): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(33): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-03-31 18:52:26.266623] [error] Unexpected API Return Value: [ ]
+[2021-03-31 18:52:26.267683] [error] Connection Error in getResponse: Exception: Unexpected API Return Value: [ ] in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:96
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(73): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(107): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-default.php(19): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(33): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-03-31 19:23:44.038124] [error] Unexpected API Return Value: [ ]
+[2021-03-31 19:23:44.039551] [error] Connection Error in getResponse: Exception: Unexpected API Return Value: [ ] in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:109
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-default.php(18): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(33): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-03-31 19:23:44.283387] [error] Unexpected API Return Value: [ ]
+[2021-03-31 19:23:44.284532] [error] Connection Error in getResponse: Exception: Unexpected API Return Value: [ ] in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:109
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-default.php(19): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(33): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-03-31 19:24:01.816101] [error] Unexpected API Return Value: [ ]
+[2021-03-31 19:24:01.817317] [error] Connection Error in getResponse: Exception: Unexpected API Return Value: [ ] in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:109
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-default.php(18): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(33): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-03-31 19:24:02.057291] [error] Unexpected API Return Value: [ ]
+[2021-03-31 19:24:02.058100] [error] Connection Error in getResponse: Exception: Unexpected API Return Value: [ ] in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:109
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-default.php(19): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(33): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-03-31 19:24:50.931479] [error] Unexpected API Return Value: [ ]
+[2021-03-31 19:24:50.932365] [error] Connection Error in getResponse: Exception: Unexpected API Return Value: [ ] in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:109
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-default.php(18): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(33): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-03-31 19:24:51.207619] [error] Unexpected API Return Value: [ ]
+[2021-03-31 19:24:51.209038] [error] Connection Error in getResponse: Exception: Unexpected API Return Value: [ ] in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:109
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-default.php(19): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(33): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-03-31 19:27:21.036760] [error] Unexpected API Return Value: [ ]
+[2021-03-31 19:27:21.038500] [error] Connection Error in getResponse: Exception: Unexpected API Return Value: [ ] in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:109
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-default.php(18): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(33): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-03-31 19:27:21.299818] [error] Unexpected API Return Value: [ ]
+[2021-03-31 19:27:21.300937] [error] Connection Error in getResponse: Exception: Unexpected API Return Value: [ ] in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:109
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-default.php(19): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(33): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-03-31 19:46:07.107105] [error] Unexpected API Return Value: [ ]
+[2021-03-31 19:46:07.113811] [error] Connection Error in getResponse: Exception: Unexpected API Return Value: [ ] in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:109
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-default.php(18): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(33): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-03-31 19:46:07.338845] [error] Unexpected API Return Value: [ ]
+[2021-03-31 19:46:07.339847] [error] Connection Error in getResponse: Exception: Unexpected API Return Value: [ ] in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:109
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-default.php(19): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(33): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-03-31 19:46:35.345434] [error] Unexpected API Return Value: [ ]
+[2021-03-31 19:46:35.346332] [error] Connection Error in getResponse: Exception: Unexpected API Return Value: [ ] in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:109
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-default.php(18): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(33): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-03-31 19:46:35.575498] [error] Unexpected API Return Value: [ ]
+[2021-03-31 19:46:35.576280] [error] Connection Error in getResponse: Exception: Unexpected API Return Value: [ ] in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:109
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-default.php(19): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(33): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-03-31 19:46:49.001585] [error] Unexpected API Return Value: [ ]
+[2021-03-31 19:46:49.003257] [error] Connection Error in getResponse: Exception: Unexpected API Return Value: [ ] in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:109
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-default.php(18): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(33): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-03-31 19:46:49.240209] [error] Unexpected API Return Value: [ ]
+[2021-03-31 19:46:49.241077] [error] Connection Error in getResponse: Exception: Unexpected API Return Value: [ ] in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:109
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(81): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(125): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/posts/post-default.php(19): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/single.php(33): get_template_part()
+#7 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#8 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#9 /vagrant/public/index.php(17): require('/vagrant/public...')
+#10 {main}
+[2021-03-31 20:44:58.846463] [error] HTTP Response Code Error: 404
+[2021-03-31 20:44:58.847735] [error] Connection Error in getResponse: Exception: Unexpected HTTP Response Code: 404 in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:104
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(80): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(124): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-details.php(4): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-default.php(41): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(33): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}
+[2021-03-31 20:45:26.734239] [error] HTTP Response Code Error: 404
+[2021-03-31 20:45:26.735456] [error] Connection Error in getResponse: Exception: Unexpected HTTP Response Code: 404 in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:104
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(80): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(124): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-details.php(4): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-default.php(41): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(33): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}
+[2021-03-31 20:46:19.258266] [error] HTTP Response Code Error: 404
+[2021-03-31 20:46:19.265105] [error] Connection Error in getResponse: Exception: Unexpected HTTP Response Code: 404 in /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php:104
+Stack trace:
+#0 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(80): Fool\Connection->validateRequest()
+#1 /vagrant/public/wp-content/plugins/fool-company-data/app/API/Connection.php(124): Fool\Connection->makeRequest()
+#2 /vagrant/public/wp-content/themes/thefool/template-parts/company-details.php(6): Fool\Connection->getResponse()
+#3 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#4 /vagrant/public/wp-includes/template.php(676): load_template()
+#5 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#6 /vagrant/public/wp-content/themes/thefool/posts/post-default.php(41): get_template_part()
+#7 /vagrant/public/wp-includes/template.php(732): require('/vagrant/public...')
+#8 /vagrant/public/wp-includes/template.php(676): load_template()
+#9 /vagrant/public/wp-includes/general-template.php(204): locate_template()
+#10 /vagrant/public/wp-content/themes/thefool/single.php(33): get_template_part()
+#11 /vagrant/public/wp-includes/template-loader.php(106): include('/vagrant/public...')
+#12 /vagrant/public/wp-blog-header.php(19): require_once('/vagrant/public...')
+#13 /vagrant/public/index.php(17): require('/vagrant/public...')
+#14 {main}

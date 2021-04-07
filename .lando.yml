@@ -1,0 +1,4 @@
+name: foolish-stock-advisor
+recipe: wordpress
+config:
+  webroot: app

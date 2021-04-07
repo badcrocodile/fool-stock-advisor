@@ -1,0 +1,21 @@
+{
+    "name": "fool/stockadvisor",
+    "description": "A fun project for the folks at Motley Fool",
+    "type": "wordpress",
+    "authors": [
+        {
+            "name": "Jason Pollock",
+            "email": "jason@coolguy.org"
+        }
+    ],
+    "require": {
+        "ext-json": "*",
+        "ext-curl": "*",
+        "katzgrau/klogger": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fool\\": "app/"
+        }
+    }
+}

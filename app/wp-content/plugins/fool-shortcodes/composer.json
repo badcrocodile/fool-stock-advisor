@@ -1,0 +1,20 @@
+{
+    "name": "fool/shortcodes",
+    "description": "A fun project for the folks at Motley Fool",
+    "type": "wordpress",
+    "authors": [
+        {
+            "name": "Jason Pollock",
+            "email": "jason@coolguy.org"
+        }
+    ],
+    "require": {
+        "ext-json": "*",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "FoolShortcodes\\": "app/"
+        }
+    }
+}
